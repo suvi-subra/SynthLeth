@@ -5,35 +5,21 @@ SynthLeth is a python script that infers synthetic lethal gene pairs of Plasmodi
 ## Download SynthLeth and data files 
 
 ```ruby
-mkdir SynthLeth
+mkdir Run_SynthLeth
+cd Run_SynthLeth
+git clone https://github.com/suvi-subra/SynthLeth
 cd SynthLeth
-git clone https://github.com/suvi-subra/SynthLeth/blob/master/SynthLeth.py
-git clone https://github.com/suvi-subra/SynthLeth/blob/master/BioSC.txt.zip
 unzip BioSc.txt.zip
-https://github.com/suvi-subra/SynthLeth/blob/master/groups.txt.zip
 unzip groups.txt.zip
-```
-
-### Input: 3 files 	
-
-a) "BioSC.txt" - Synthetic lethal interaction data of Saccharomyces Cerevisiae
-
-Source: http://thebiogrid.org/downloads/archives/Latest%20Release/BIOGRID-ORGANISM-LATEST.tab2.zip
-
-b) "orthologs.txt" - List of pairwise orthologs between organisms from OrthoMCL
-
-Source: http://www.orthomcl.org/common/downloads/release-5/pairs/orthologs.txt.gz
-
-c) "groups.txt" - Groups containing orthologs of Saccharomyces cerevisiae, Homo sapiens & Plasmodium falciparum
-
-Source: http://www.orthomcl.org/common/downloads/release-5/groups_OrthoMCL-5.txt.gz
-  			
+curl -O http://www.orthomcl.org/common/downloads/release-5/pairs/orthologs.txt.gz
+gunzip orthologs.txt.gz
+```  			
 ## Running SynthLeth
 
 Users can run SynthLeth using the following command:
 
 ```ruby
-cd mkdir
+python ./SynthLeth.py
 ```
 
 ### Output 1: 3 intermediate files (needed for script to run)
