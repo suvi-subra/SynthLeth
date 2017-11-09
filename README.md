@@ -2,18 +2,6 @@
 
 SynthLeth is a python script that infers synthetic lethal gene pairs of Plasmodium falciparum from synthetic lethal gene pairs of Saccharomyces Cerevisiae 
 
-## Download SynthLeth and data files 
-
-```ruby
-mkdir SynthLeth
-cd SynthLeth
-git clone https://github.com/suvi-subra/SynthLeth/blob/master/SynthLeth.py
-git clone https://github.com/suvi-subra/SynthLeth/blob/master/BioSC.txt.zip
-unzip BioSc.txt.zip
-https://github.com/suvi-subra/SynthLeth/blob/master/groups.txt.zip
-unzip groups.txt.zip
-```
-
 ### Input: 3 files 	
 
 a) "BioSC.txt" - Synthetic lethal interaction data of Saccharomyces Cerevisiae
@@ -27,7 +15,18 @@ Source: http://www.orthomcl.org/common/downloads/release-5/pairs/orthologs.txt.g
 c) "groups.txt" - Groups containing orthologs of Saccharomyces cerevisiae, Homo sapiens & Plasmodium falciparum
 
 Source: http://www.orthomcl.org/common/downloads/release-5/groups_OrthoMCL-5.txt.gz
-  			
+
+## Download SynthLeth and data files 
+
+```ruby
+mkdir SynthLeth
+cd SynthLeth
+git clone https://github.com/suvi-subra/SynthLeth/blob/master/SynthLeth.py
+git clone https://github.com/suvi-subra/SynthLeth/blob/master/BioSC.txt.zip
+unzip BioSc.txt.zip
+https://github.com/suvi-subra/SynthLeth/blob/master/groups.txt.zip
+unzip groups.txt.zip
+```
 ## Running SynthLeth
 
 Users can run SynthLeth using the following command:
