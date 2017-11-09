@@ -8,6 +8,10 @@ SynthLeth is a python script that infers synthetic lethal gene pairs of Plasmodi
 mkdir SynthLeth
 cd SynthLeth
 git clone https://github.com/suvi-subra/SynthLeth/blob/master/SynthLeth.py
+git clone https://github.com/suvi-subra/SynthLeth/blob/master/BioSC.txt.zip
+unzip BioSc.txt.zip
+https://github.com/suvi-subra/SynthLeth/blob/master/groups.txt.zip
+unzip groups.txt.zip
 ```
 
 ### Input: 3 files 	
