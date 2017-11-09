@@ -2,7 +2,14 @@
 
 SynthLeth is a python script that infers synthetic lethal gene pairs of a target organism, Plasmodium falciparum ("pfal"), from synthetic lethal gene pairs of Saccharomyces Cerevisiae ("scer") taking into account the presence/absence of orthologs in Homo Sapiens
 
-## Files needed
+## Download Files needed to run SynthLeth
+
+Create a new folder to save input files
+
+```ruby
+mkdir SynthLeth
+cd SynthLeth
+``
 
 ### Input: 3 files 	
 
@@ -17,6 +24,14 @@ Source: http://www.orthomcl.org/common/downloads/release-5/pairs/orthologs.txt.g
 c) "groups.txt" - Groups containing orthologs of Saccharomyces cerevisiae, Homo sapiens & Plasmodium falciparum
 
 Source: http://www.orthomcl.org/common/downloads/release-5/groups_OrthoMCL-5.txt.gz
+  			
+## Running SynthLeth
+
+Users can run SynthLeth using the following command:
+
+```ruby
+cd mkdir
+```
 
 ### Output 1: 3 intermediate files (needed for script to run)
 
@@ -29,11 +44,3 @@ c) "sph.txt" - Clusters containing orthologs of Saccharomyces Cerevisiae, Plasmo
 ### Output 2: 1 file 
 
 "final_sl_pfal.txt"- List of inferred synthetic lethal gene pairs in target organism, Plasmodium falciparum
-  			
-## Running SynthLeth
-
-Users can run SynthLeth using the following command:
-
-```ruby
-cd mkdir
-```
