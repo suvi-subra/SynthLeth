@@ -17,6 +17,6 @@ unzip orthologs.txt.gz
 Users can run SynthLeth using the following command:
 
 ```ruby
-cd mkdir
+python ./SynthLeth.py
 ```
 
