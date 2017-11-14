@@ -1,0 +1,37 @@
+YGR078C	P	present	MAL7P1.94	P	present	PAC10	GIM2|PFD3|RKS2|L000002864	present	P	YBR114W	N	absent	PFL2440w	N	absent	RAD16	PSO5|DNA repair protein RAD16|L000004121|L000001565	absent	N	
+YJR057W	P	present	PFL2465c	P	present	CDC8	bifunctional thymidylate/uridylate kinase|L000000248	present	P	YKL114C	N	absent	PF13_0176	N	absent	APN1	DNA-(apurinic or apyrimidinic site) lyase APN1|L000000096	absent	N	
+YLR372W	P	present	PFA0455c	P	present	ELO3	SUR4|APA1|SRE1|VBM1|fatty acid elongase ELO3|L000002245	present	P	YML008C	N	absent	MAL13P1.214	N	absent	ERG6	ISE1|LIS1|SED6|VID1|sterol 24-C-methyltransferase|L000000572|S000029637|L000003110	absent	N	
+YPL022W	P	present	MAL13P1.346	P	present	RAD1	LPB9|ssDNA endodeoxyribonuclease RAD1|L000001555	present	P	YKL114C	N	absent	PF13_0176	N	absent	APN1	DNA-(apurinic or apyrimidinic site) lyase APN1|L000000096	absent	N	
+YGL105W	P	present	PF14_0401	P	present	ARC1	L000003553	present	P	YGL245W	N	absent	PF13_0257	N	absent	GUS1	GSN1|glutamate--tRNA ligase GUS1|GluRS	absent	N	
+YHR134W	N	absent	PF10_0092	N	absent	WSS1	-	absent	N	YLR234W	P	present	PF13_0251	P	present	TOP3	EDR1|DNA topoisomerase 3|L000002321	present	P	
+YKL173W	N	absent	PF10_0041	N	absent	SNU114	GIN10|U5 snRNP GTPase SNU114|L000003541	absent	N	YDL084W	P	present	PFB0445c	P	present	SUB2	ATP-dependent RNA helicase SUB2|L000004574	present	P	
+YKL173W	N	absent	PF10_0041	N	absent	SNU114	GIN10|U5 snRNP GTPase SNU114|L000003541	absent	N	YFR005C	P	present	PF13_0096	P	present	SAD1	L000001795	present	P	
+YKL173W	N	absent	PF10_0041	N	absent	SNU114	GIN10|U5 snRNP GTPase SNU114|L000003541	absent	N	YOR308C	P	present	PFC1060c	P	present	SNU66	-	present	P	
+YKL173W	N	absent	PF10_0041	N	absent	SNU114	GIN10|U5 snRNP GTPase SNU114|L000003541	absent	N	YDR243C	P	present	PFE0925c	P	present	PRP28	L000001509	present	P	
+YKL173W	N	absent	PF10_0041	N	absent	SNU114	GIN10|U5 snRNP GTPase SNU114|L000003541	absent	N	YLL036C	P	present	PFC0365w	P	present	PRP19	PSO4|E3 ubiquitin-protein ligase PRP19|L000001506	present	P	
+YKL173W	N	absent	PF10_0041	N	absent	SNU114	GIN10|U5 snRNP GTPase SNU114|L000003541	absent	N	YER013W	P	present	PF10_0294	P	present	PRP22	DEAH-box ATP-dependent RNA helicase PRP22|L000001508	present	P	
+YDL074C	P	absent	PFF0165c	P	absent	BRE1	E3 ubiquitin-protein ligase BRE1	absent	P	YKL139W	N	present	PFD0865c	N	present	CTK1	cyclin-dependent serine/threonine protein kinase CTK1|L000000432	present	N	
+YPL240C	P	present	PF07_0029	P	present	HSP82	HSP90|Hsp90 family chaperone HSP82|L000000822	present	P	YIL065C	N	absent	MAL13P1.139	N	absent	FIS1	MDV2	absent	N	
+YPL240C	P	present	PF07_0029	P	present	HSP82	HSP90|Hsp90 family chaperone HSP82|L000000822	present	P	YKR035W-A	N	absent	PFI0300w	N	absent	DID2	CHM1|FTI1|VPL30|VPS46|L000004496	absent	N	
+YML095C	P	present	PFB0160w	P	present	RAD10	L000001563	present	P	YKL114C	N	absent	PF13_0176	N	absent	APN1	DNA-(apurinic or apyrimidinic site) lyase APN1|L000000096	absent	N	
+YEL029C	P	present	PFF0775w	P	present	BUD16	putative pyridoxal kinase BUD16	present	P	YMR096W	N	absent	PFF1025c	N	absent	SNZ1	pyridoxine biosynthesis protein SNZ1|L000002575	absent	N	
+YOR244W	P	present	PF11_0192	P	present	ESA1	TAS1|NuA4 histone acetyltransferase complex catalytic subunit ESA1|KAT5|L000003952	present	P	YDL008W	N	absent	PFF1180w	N	absent	APC11	anaphase promoting complex subunit 11|L000004322	absent	N	
+YGR002C	P	present	PFF1385c	P	present	SWC4	EAF2|GOD1	present	P	YER048C	N	absent	PFB0920w	N	absent	CAJ1	L000000210	absent	N	
+YKL114C	N	absent	PF13_0176	N	absent	APN1	DNA-(apurinic or apyrimidinic site) lyase APN1|L000000096	absent	N	YAL015C	P	present	PFF0715c	P	present	NTG1	FUN33|SCR1|ogg2|bifunctional N-glycosylase/AP lyase NTG1|L000004114	present	P	
+YDL128W	N	absent	PFF0170w	N	absent	VCX1	HUM1|MNR1|L000002990	absent	N	YGL167C	P	present	PFL0590c	P	present	PMR1	BSD1|LDB1|SSC1|Ca(2+)/Mn(2+)-transporting P-type ATPase PMR1|L000004740|L000001455	present	P	
+YCL043C	P	present	MAL8P1.17	P	present	PDI1	MFP1|TRG1|protein disulfide isomerase PDI1|L000001360	present	P	YHR134W	N	absent	PF10_0092	N	absent	WSS1	-	absent	N	
+YCL043C	P	present	MAL8P1.17	P	present	PDI1	MFP1|TRG1|protein disulfide isomerase PDI1|L000001360	present	P	YER048C	N	absent	PFB0920w	N	absent	CAJ1	L000000210	absent	N	
+YGL148W	N	absent	PFF1105c	N	absent	ARO2	bifunctional chorismate synthase/riboflavin reductase [NAD(P)H] ARO2|L000000117	absent	N	YNL241C	P	present	PF14_0511	P	present	ZWF1	MET19|POS10|glucose-6-phosphate dehydrogenase|L000002572	present	P	
+Q0045	N	absent	mal_mito_2	N	absent	COX1	OXI3|cytochrome c oxidase subunit 1|L000004924|L000000383|L000001321	absent	N	YLR348C	N	present	PF08_0031	N	present	DIC1	L000004327	present	N	
+YOR375C	P	present	PF14_0286	P	present	GDH1	DHE4|URE1|glutamate dehydrogenase (NADP(+)) GDH1|GDHA|GDH-A|L000000696	present	P	YDL171C	N	absent	PF14_0334	N	absent	GLT1	glutamate synthase (NADH)|L000003333	absent	N	
+YAL026C	P	present	PFL0950c	P	present	DRS2	FUN38|SWA3|aminophospholipid-translocating P4-type ATPase DRS2|L000000526	present	P	YML008C	N	absent	MAL13P1.214	N	absent	ERG6	ISE1|LIS1|SED6|VID1|sterol 24-C-methyltransferase|L000000572|S000029637|L000003110	absent	N	
+YPL020C	P	absent	PFL1635w	P	absent	ULP1	NIB1|SUMO protease ULP1|S000029323|L000001249	absent	P	YHR134W	N	absent	PF10_0092	N	absent	WSS1	-	absent	N	
+YKL190W	P	present	PF14_0492	P	present	CNB1	CRV1|YCN2|calcineurin regulatory subunit B|L000000371	present	P	YDL128W	N	absent	PFF0170w	N	absent	VCX1	HUM1|MNR1|L000002990	absent	N	
+YDL014W	P	present	PF14_0068	P	present	NOP1	LOT3|rRNA methyltransferase NOP1|L000001260	present	P	YDL008W	N	absent	PFF1180w	N	absent	APC11	anaphase promoting complex subunit 11|L000004322	absent	N	
+YLR220W	N	absent	PFL1140w	N	absent	CCC1	L000000234	absent	N	YML028W	P	present	PFL0725w	P	present	TSA1	TPX1|ZRG14|thioredoxin peroxidase TSA1|cTPxI|L000002365	present	P	
+YNL267W	P	present	PFE0485w	P	present	PIK1	PIK120|PIK41|1-phosphatidylinositol 4-kinase|L000001439|L000001438	present	P	YGR133W	N	absent	PFF0305c	N	absent	PEX4	PAS2|UBC10|E2 ubiquitin-protein ligase peroxin 4|L000001338	absent	N	
+YJL074C	P	present	PFD0685c	P	present	SMC3	cohesin subunit SMC3|L000003992	present	P	YKL173W	N	absent	PF10_0041	N	absent	SNU114	GIN10|U5 snRNP GTPase SNU114|L000003541	absent	N	
+YER095W	P	present	PF11_0087	P	present	RAD51	MUT5|recombinase RAD51|L000001571	present	P	YKL173W	N	absent	PF10_0041	N	absent	SNU114	GIN10|U5 snRNP GTPase SNU114|L000003541	absent	N	
+YDR101C	N	present	PF14_0261	N	present	ARX1	-	present	N	YLR074C	P	absent	PF14_0612	P	absent	BUD20	-	absent	P	
+YKL034W	N	absent	PFC0510w	N	absent	TUL1	ubiquitin-protein ligase TUL1	absent	N	YKR035W-A	N	absent	PFI0300w	N	absent	DID2	CHM1|FTI1|VPL30|VPS46|L000004496	absent	N	
+YDL209C	N	absent	PFE0750c	N	absent	CWC2	NTC40	absent	N	YJR050W	P	present	PF14_0688	P	present	ISY1	NTC30|UTR3|L000002730	present	P	
