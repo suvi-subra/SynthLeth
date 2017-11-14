@@ -1,9 +1,27 @@
-### This module infers synthetic lethal gene pairs of a target organism Plasmodium falciparum ("pfal") from synthetic lethal gene pairs of Saccharomyces Cerevisiae ("scer").
+### SynthLeth.py infers synthetic lethal gene pairs of a target organism Plasmodium falciparum ("pfal") from synthetic lethal gene pairs of Saccharomyces Cerevisiae ("scer").
+###
 ### Input: 3 files - 	a) "BioSC.txt" - Synthetic lethal interaction data of Saccharomyces Cerevisiae
-###						b) "orthologs.txt" - List of pairwise orthologs between Saccharomyces cerevisiae-Homo sapiens & Saccharomyces cerevisiae-Plasmodium falciparum & Homo sapiens-Plasmodium falciparum
-###						c) "groups.txt" - Groups containing orthologs of Saccharomyces cerevisiae, Homo sapiens & Plasmodium falciparum
+###			b) "orthologs.txt" - List of pairwise orthologs between Saccharomyces cerevisiae-Homo sapiens & Saccharomyces cerevisiae-Plasmodium falciparum & Homo sapiens-Plasmodium falciparum
+###			c) "groups.txt" - Groups containing orthologs of Saccharomyces cerevisiae, Homo sapiens & Plasmodium falciparum
+###
 ### Output: 1 file - 	"final_sl_pfal.txt"- List of inferred synthetic lethal gene pairs in target organism Plasmodium falciparum
 ###			3 intermediate files - "scer_pfal.txt", "scer_pfal_only.txt", "sph.txt" (needed for the module to run)			
+###
+### Copyright (C) 2017  Suvitha Subramaniam
+###
+###    This program is free software: you can redistribute it and/or modify
+###    it under the terms of the GNU General Public License as published by
+###    the Free Software Foundation, either version 3 of the License, or
+###    (at your option) any later version.
+###
+###    This program is distributed in the hope that it will be useful,
+###    but WITHOUT ANY WARRANTY; without even the implied warranty of
+###    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+###    GNU General Public License for more details.
+###
+###    You should have received a copy of the GNU General Public License
+###    along with this program. If not, see <http://www.gnu.org/licenses/>.
+###
 ### For questions contact: Suvitha Subramaniam (suvi.subra@gmail.com)
 
 org="pfal"
